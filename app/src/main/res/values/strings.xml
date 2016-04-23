@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ABA</string>
+
+    <string-array name="mata_uang">
+        <item>IDR</item>
+        <item>USD</item>
+    </string-array>
+
+    <string-array name="ukuran_emas">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+</resources>
